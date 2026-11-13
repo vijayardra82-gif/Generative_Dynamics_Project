@@ -44,19 +44,19 @@ The project also includes experiments involving the Rossler and Duffing systems.
 
 
 
-- `data/` â€“ Original datasets and prepared time-series windows.
+- `data/` - Original datasets and prepared time-series windows.
 
-- `models/` â€“ TimeGAN model implementation.
+- `models/` - TimeGAN model implementation.
 
-- `scripts/` â€“ Dataset generation, model training, synthetic generation, evaluation and diagnostic scripts.
+- `scripts/` - Dataset generation, model training, synthetic generation, evaluation and diagnostic scripts.
 
-- `outputs/` â€“ Model checkpoints, synthetic datasets, evaluation results and comparison plots.
+- `outputs/` - Model checkpoints, synthetic datasets, evaluation results and comparison plots.
 
-- `notebooks/` â€“ Jupyter notebooks.
+- `notebooks/` - Jupyter notebooks.
 
-- `requirements.txt` â€“ Python dependencies.
+- `requirements.txt` - Python dependencies.
 
-- `README.md` â€“ Project documentation.
+- `README.md` - Project documentation.
 
 
 
@@ -242,6 +242,6 @@ The generated trajectories do not yet reproduce the real Lorenz attractor geomet
 
 
 
-Experiments 4â€“9 have been trained and evaluated. Experiment 10 is an additional, untrained experimental configuration.
+Experiments 4-9 have been trained and evaluated. Experiment 10 is an additional, untrained experimental configuration.
 
 
